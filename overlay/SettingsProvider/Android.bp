@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsProviderResMondrian",
+    name: "SettingsProviderResDiting",
     device_specific: true
 }

@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "WifiResMondrian",
+    name: "WifiResDiting",
     device_specific: true
 }
